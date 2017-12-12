@@ -46,9 +46,12 @@ require( 'includes/header.php' );
       <div class="row-fluid">
         <div class="col-xs-12 col-md-8 col-lg-8 col-lg-offset-0">
           <div class="row feed">
-            <!--Content goes here -->
-
+            <div>Content goes here</div>
           </div>
+		  <div class="row feed">
+            <div>Content goes here</div>
+          </div>
+			
         </div>
         <div class="col-xs-12 col-md-4 col-lg-4 col-lg-offset-0">
           <div class="fb-page" data-href="https://www.facebook.com/APsiNKUPsiChapter/" data-tabs="timeline" data-width="500" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
